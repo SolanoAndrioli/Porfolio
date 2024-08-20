@@ -1,0 +1,4 @@
+A continuacion presento un protecto ETL (Extraer, Trasforamar, Load o Cargar).
+  A travez de la tecnica Web Scrapping extraje informacion sobre disponibilidad de departamentos en la ciudad de Buenos Aires
+  de una reconocida pagina web donde se poblica dicha oferte, la infomacion cruda se proceso para crear un data set, el cuál
+  use para crar una presentacion en power bi.
